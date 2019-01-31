@@ -43,6 +43,7 @@ int main() {
 	for (auto e : people) {
 		e.sayName();
 	}
+	
 	// 9
 	cout << Person::totalPopulation() << endl;
 
